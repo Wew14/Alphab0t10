@@ -69,3 +69,7 @@ Off in web nya
 - All Friends
 - All Contributors
 - All Creator Bot
+
+Link : https://replit.com/@zeeoneofc/Alphabot-string-session?lite=1&outputonly=1#main.py
+
+Ketik : rm -rf Alphab0t9 && git clone https://github.com/zeeoneofc/Alphab0t9 && cd Alphab0t9 && rm -rf session.json && npm start
